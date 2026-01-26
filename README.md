@@ -1,49 +1,106 @@
-       
-# Food & Beverages Sales Analysis
-     
-            # Created Interactive dashboard in Power BI And Case Study using SQL query
+# 🍽 Food & Beverages Sales Analytics (Power BI + SQL)
+## 📌 Project Overview
 
-## Problem Overview
+This project presents an interactive sales analytics dashboard for a Food & Beverages company using Power BI and SQL. It analyzes 3 years of transactional sales data across multiple channels (Retail, Distributor, Online) to help management understand performance trends and improve revenue strategy.
 
-Welcome to the Food and Beverages Power BI Dashboard project! This repository contains a Power BI dashboard and SQL case study that provides insights into food and beverage data. It has 3 years of sales data across various store mediums, including online, distributor, and retail channels. This project aims to offer visualizations and analytics to help F&B management understand trends, make informed decisions, and improve operational efficiency.
+## 🧠 Business Problem
 
+F&B companies often struggle with:
 
+Identifying top-performing sales channels
 
-### Steps followed 
+Understanding seasonal demand patterns
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : Perform data cleaning and profiling tasks.
-- Step 5 : Checking for any null or blank data. 
-- Step 6 : Creating measure for total revenue, Average ticket price, and for orders using DAX function.
-- Step 7 : Now Data visualizations, created various charts Bar charts, column charts, table, Matrix, Slicers and others.
+Optimizing product mix
 
+Improving digital (online) revenue
 
-## Insights
+### Objective:
+Build a data-driven system that enables stakeholders to:
 
-        # Overall Revenue is $17.91 millions from 52.6K orders
+Track revenue growth
 
-        # Revenue By channels Retail with #8.7 millions comes first followed by
-           Distributor $6.1 millions
+Compare channel performance
 
-        # Maximum Revenue received in month of September 
+Identify high-demand products
 
-        # Product Preferences: Customers prefer wheat flour, followed by oils and yeast
+Support strategic planning
 
-        # Focused on online channel to increase revenue
+## 🛠 Tools & Technologies
 
-        # Recommendation: Focus on the online channel to increase revenue.
+Power BI – Interactive dashboard
 
-        # Seasonal Insight: Revenue during the First quarter months is lower compared to 
-          other times of the year.
+SQL – Case study queries for analysis
 
+Power Query – Data cleaning & profiling
 
+DAX – Revenue and order KPIs
 
+## 📊 Key KPIs
 
-## Snapshot of dashboard
+Total Revenue: $17.91M
 
+Total Orders: 52.6K
 
+Top Channel: Retail ($8.7M)
 
-  
-  ![Food   Beverage Sales Dashboard](https://github.com/user-attachments/assets/09bd4a10-6300-467b-8648-6db025204c72)
+Second Channel: Distributor ($6.1M)
+
+## 🔍 Key Business Insights
+
+✔ Channel Performance
+Retail dominates revenue, while online channel shows growth potential but low contribution.
+
+✔ Seasonal Trend
+Revenue peaks in September, while Q1 shows weaker performance, indicating seasonal demand fluctuations.
+
+✔ Product Demand
+Top products:
+
+Wheat Flour
+
+Oils
+
+Yeast
+
+✔ Strategic Gap
+Online channel is underutilized despite strong market shift toward digital purchasing.
+
+## 💡 Business Recommendations
+
+▶ Invest in online marketing & discounts to boost digital revenue
+
+▶ Increase inventory for high-demand products (flour, oils, yeast)
+
+▶ Run promotions in Q1 to balance seasonal dips
+
+▶ Use distributor data to optimize B2B partnerships
+
+## 🚀 Business Value Delivered
+
+This dashboard helps management:
+
+Monitor multi-channel revenue in real time
+
+Identify growth opportunities
+
+Plan seasonal strategies
+
+Improve product portfolio decisions
+
+## 📌 Skills Demonstrated
+
+This project demonstrates:
+
+Business-oriented data analysis
+
+SQL-based exploratory analysis
+
+KPI design using DAX
+
+Executive-level dashboard storytelling
+
+Translating raw data into strategic insights
+
+## 📷 Dashboard Preview
+![Food   Beverage Sales Dashboard](https://github.com/user-attachments/assets/09bd4a10-6300-467b-8648-6db025204c72)
